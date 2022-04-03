@@ -76,6 +76,17 @@ After saving, your assets may appear empty. This is normal, but you can still us
 Upload your assets to an image hosting site like Imgur. (dropbox, github, and other similar sites can work as well.)
 |||
 
+||| Step 2
+![Imgur Upload Page](../img/rpc/rpc-app-6.png)
+Using Imgur as an example, go to the https://imgur.com and click the new post button in the top left. Then drag your image from your file explorer to the upload area.
+![Imgur Edit Page](../img/rpc/rpc-app-7.png)
+If you want to upload multiple images, you can click the button on the right side of the screen. 
+|||
+
+||| Step 3
+
+|||
+
 &nbsp;  
 There you go. You should now have your custom app setup and ready for use. Next, check out How to configure the config to make use of your app
 &nbsp;  
